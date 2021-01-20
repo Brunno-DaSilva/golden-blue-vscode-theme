@@ -1,0 +1,50 @@
+{
+    "name": "golden-blue",
+    "displayName": "Golden-Blue Color Theme",
+    "description": "My very first VS code color theme Bruno-DaSilva.com based on Tomorrow night's blue",
+    "publisher": "Bruno-DaSilva.com",
+    "author": {
+        "name": "Bruno DaSilva"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Brunno-DaSilva/golden-blue-vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/Brunno-DaSilva/golden-blue-vscode-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#002451",
+        "theme": "dark"
+    },
+    "icon": "./images/icon/DEV.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark Theme",
+        "Dark Blue Theme",
+        "Dracula Dark blue theme",
+        "VS Code dark theme",
+        "VSCode theme",
+        "theme",
+        "blue theme",
+        "blue",
+        "yellow",
+        "Bruno da silva",
+        "bruno-dasilva.com"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Golden-Blue Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BrunoDaSilvaGolden-Blue-color-theme.json"
+            }
+        ]
+    }
+}
