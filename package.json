@@ -2,11 +2,11 @@
     "name": "golden-blue",
     "displayName": "Golden-Blue Color Theme",
     "description": "My very first VS code color theme Bruno-DaSilva.com based on Tomorrow night's blue",
-    "publisher": "Bruno-DaSilva.com",
+    "publisher": "BrunoDaSilvaThemes",
     "author": {
         "name": "Bruno DaSilva"
     },
-    "version": "0.0.1",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -21,7 +21,7 @@
         "color": "#002451",
         "theme": "dark"
     },
-    "icon": "./images/icon/DEV.png",
+    "icon": "images/icon/DEV.png",
     "categories": [
         "Themes"
     ],
