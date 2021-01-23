@@ -1,6 +1,6 @@
 # Dark blue theme for VS Code
 
-My very first VS code color theme Bruno-DaSilva.com based on Tomorrow night's blue.
+Dark blue VScode color theme from Bruno-DaSilva.com based on Tomorrow night's blue
 
 ### For more information
 
