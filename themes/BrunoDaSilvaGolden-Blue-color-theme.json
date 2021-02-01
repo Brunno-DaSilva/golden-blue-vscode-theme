@@ -92,6 +92,14 @@
       }
     },
     {
+      "name": "Accessor",
+      "scope": ["keyword.operator.accessor"],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#FBE8B3"
+      }
+    },
+    {
       "name": "Variable, String Link, Regular Expression, GitGutter deleted, string constant.other.placeholder ",
       "scope": [
         "variable",
@@ -232,10 +240,24 @@
     },
     {
       "name": "Function, Special Method, Block Level, GitGutter changed",
-      "scope": "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level, markup.changed.git_gutter",
+      "scope": [
+        "meta.function-call",
+        "support.function",
+        "keyword.other.special-method",
+        "meta.block-level",
+        "markup.changed.git_gutter"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#BBDAFF"
+      }
+    },
+    {
+      "name": "Entity Function",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#ffe26f"
       }
     },
     {
@@ -253,12 +275,26 @@
         "support.constant",
         "constant.character",
         "constant.escape",
-        "variable.parameter",
         "keyword.other.unit",
         "keyword.other"
       ],
       "settings": {
         "foreground": "#BDD5EA"
+      }
+    },
+    {
+      "name": "Const Numeric",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#E7EE98"
+      }
+    },
+    {
+      "name": "Variable Parameter",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#FFB86C"
       }
     },
     {
