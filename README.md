@@ -2,7 +2,7 @@
 
 Dark blue VScode color theme from Bruno-DaSilva.com based on Tomorrow night's blue
 
-<img src="./images/goldenBlue.png" alt="Color Pallet">
+![Screenshot](https://res.cloudinary.com/duprwuo4j/image/upload/v1612215000/Logo/goldenBlue_tncibe.png)
 
 ### For more information
 
